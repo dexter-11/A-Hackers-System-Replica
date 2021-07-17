@@ -3,7 +3,7 @@
 ____
 ### :information_desk_person: Project details
 - Year: **2015**
-- Language: **C++**
+- Language: **C++ v11**
 - Non-GUI: **Yes**
 
 ### :information_desk_person:Header files used & Purpose
