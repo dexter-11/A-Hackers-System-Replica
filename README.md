@@ -2,18 +2,18 @@
 #### Just a fancy high school project :)
 ____
 ## :information_desk_person: Project details
-- Year: 2015
-- Language: C++
-- Non-GUI: Yes
+- Year: **2015**
+- Language: **C++**
+- Non-GUI: **Yes**
 
 ## :information_desk_person:Header files used & Purpose
-1. `fstream.h` – for file handling, `cin` and `cout`.
-2. `conio.h` – for `clrscr()` and `getch()` functions.
+1. `fstream.h` – for file handling, _cin_ and _cout_.
+2. `conio.h` – for _clrscr()_ and _getch()_ functions.
 3. `stdio.h` – for standard I/O operations.
-4. `process.h` – for `exit()` function.
+4. `process.h` – for _exit()_ function.
 5. `string.h` – for string handling.
-6. `iomanip.h` – for `setw()` function.
-7. `dos.h` – for `delay()` function.
+6. `iomanip.h` – for _setw()_ function.
+7. `dos.h` – for _delay()_ function.
 
 ## :camera:Refer report for screenshots. 
 
