@@ -1,5 +1,8 @@
 # A-Hackers-System-Replica
 #### Just a fancy high school project :)
+![C++](https://img.shields.io/badge/C%2B%2B-v11-blue.svg)
+![Dependencies](https://img.shields.io/badge/Dependencies-out--of--date-red.svg)
+![Non-GUI](https://img.shields.io/badge/GUI-No-green.svg)
 ____
 ### :information_desk_person: Project details
 - Year: **2015**
